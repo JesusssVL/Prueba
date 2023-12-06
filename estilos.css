@@ -1,0 +1,51 @@
+	.p2{
+			width: 150px;
+			height: 150px;
+		}
+		.p3{
+			width: 180px;
+			height: 180px;
+		}
+		.p4{
+			width: 100px;
+			height: 100px;
+
+		}
+
+
+table{
+	border-color:black;
+	text-align:center;
+	background-color:white;
+	opacity: 0.95;
+	width: 70%;
+}
+td{
+	color:black;
+}
+th{
+	color: black;
+}
+
+a {
+  color: black;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: green;
+}
+body{
+	background-image: url("background6.jpg");
+}
